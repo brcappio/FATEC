@@ -1,0 +1,17 @@
+.bg-orange {
+    background-color: rgb(247, 213, 149);
+}
+
+.bi-arrow-90deg-left {
+    background-image: url(../bootstrap-icons-1.9.1/box-arrow-up-left.svg);
+    display: block;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 10px;
+    left: 1140px;
+}
+
+.position-arrow {
+    position: relative;
+}

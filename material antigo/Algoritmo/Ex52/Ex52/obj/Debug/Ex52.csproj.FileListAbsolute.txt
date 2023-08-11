@@ -1,0 +1,8 @@
+C:\workspace\fatec\Algoritmo\Ex52\Ex52\bin\Debug\Ex52.exe.config
+C:\workspace\fatec\Algoritmo\Ex52\Ex52\bin\Debug\Ex52.exe
+C:\workspace\fatec\Algoritmo\Ex52\Ex52\bin\Debug\Ex52.pdb
+C:\workspace\fatec\Algoritmo\Ex52\Ex52\obj\Debug\Ex52.csproj.AssemblyReference.cache
+C:\workspace\fatec\Algoritmo\Ex52\Ex52\obj\Debug\Ex52.csproj.SuggestedBindingRedirects.cache
+C:\workspace\fatec\Algoritmo\Ex52\Ex52\obj\Debug\Ex52.csproj.CoreCompileInputs.cache
+C:\workspace\fatec\Algoritmo\Ex52\Ex52\obj\Debug\Ex52.exe
+C:\workspace\fatec\Algoritmo\Ex52\Ex52\obj\Debug\Ex52.pdb

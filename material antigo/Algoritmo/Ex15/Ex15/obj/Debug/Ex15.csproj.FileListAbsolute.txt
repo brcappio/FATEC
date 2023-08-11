@@ -1,0 +1,7 @@
+D:\bruno o foda\Algoritmo\Ex15\Ex15\bin\Debug\Ex15.exe.config
+D:\bruno o foda\Algoritmo\Ex15\Ex15\bin\Debug\Ex15.exe
+D:\bruno o foda\Algoritmo\Ex15\Ex15\bin\Debug\Ex15.pdb
+D:\bruno o foda\Algoritmo\Ex15\Ex15\obj\Debug\Ex15.csprojAssemblyReference.cache
+D:\bruno o foda\Algoritmo\Ex15\Ex15\obj\Debug\Ex15.csproj.CoreCompileInputs.cache
+D:\bruno o foda\Algoritmo\Ex15\Ex15\obj\Debug\Ex15.exe
+D:\bruno o foda\Algoritmo\Ex15\Ex15\obj\Debug\Ex15.pdb

@@ -1,0 +1,31 @@
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloco1 {
+    height: 40vh;
+    background-image: url(https://picsum.photos/id/213/1200/600);
+    background-size: cover;
+    background-position: center;    
+}
+
+.text-align {
+    text-align: justify;
+}
+
+.bloco2 {
+    height: 60vh;
+    background-image: url(https://picsum.photos/id/214/1200/600);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

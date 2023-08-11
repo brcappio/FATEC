@@ -1,0 +1,33 @@
+.bg-dark a {
+    color: rgb(190, 190, 190);
+    font-weight: bold;
+}
+
+.imagem-fundo {
+    height: 30vh;
+    text-align: center;
+    background-image: url(https://picsum.photos/600/400);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+header {
+    height: 80vh;
+    background-image: url(https://picsum.photos/1920/1080);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-shadow: 2px 2px white, -10px -10px 10px red;
+}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titulo</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <main class="container mt-5">
+        <h1 class="display-3">Formulário</h1>
+
+        <form action="cadastro.php" method="post">
+            <fieldset>
+                <legend>Dados cadastrais</legend>
+
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <label for="nome">Nome: </label>
+                        <input class="form-control" type="text" name="nome" id="nome" placeholder="vitao fdp" required minlength="3" maxlength="30">
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <label for="peso">Peso: </label>
+                        <input class="form-control" type="number" name="peso" id="peso" placeholder="24 69" required step="0.01" min="1" max="634">
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <label for="date">Data: </label>
+                        <input class="form-control" type="date" name="date" id="date" placeholder="24 69" required min="2022-01-01" max="2022-12-31">
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <label for="password">Senha: </label>
+                        <input class="form-control" type="password" name="password" id="password" placeholder="Senha">
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <label for="UF">Estado: </label>
+                        <select class="form-control" type="UF" name="UF" id="UF" placeholder="Selecione um estado">
+                            <option value="0">Selecione um estado</option>
+                            <option value="SP">São Paulo</option>
+                            <option value="RJ">Rio de Janeiro</option>
+                            <option value="ES">Espírio Santo</option>
+                        </select>
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <label for="sexo">Sexo: </label><br>
+                        <input type="radio" name="sexo" id="sexo" checked> Masc.
+                        <input type="radio" name="sexo" id="sexo"> Fem.
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <label for="curso">Curso: </label><br>
+                        <input type="checkbox" name="ADS" id="ADS" checked> ADS
+                        <input type="checkbox" name="GTI" id="GTI"> GTI
+                        <input type="checkbox" name="GCOM" id="GCOM"> GCOM
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <label for="msg">Mensagem: </label>
+                        <textarea class="form-control" type="msg" name="msg" id="msg" placeholder="Digite sua mensagem"></textarea>
+                    </div>
+
+                    <div class="col-12 mt-3">
+                        <input class="btn btn-primary" type="submit" value="Cadastrar">
+                    </div>
+                </div>
+            </fieldset>
+
+        </form>
+    </main>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

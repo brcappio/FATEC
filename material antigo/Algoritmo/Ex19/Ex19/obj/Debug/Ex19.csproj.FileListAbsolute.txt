@@ -1,0 +1,6 @@
+D:\bruno o foda\Algoritmo\Ex19\Ex19\bin\Debug\Ex19.exe.config
+D:\bruno o foda\Algoritmo\Ex19\Ex19\bin\Debug\Ex19.exe
+D:\bruno o foda\Algoritmo\Ex19\Ex19\bin\Debug\Ex19.pdb
+D:\bruno o foda\Algoritmo\Ex19\Ex19\obj\Debug\Ex19.csproj.CoreCompileInputs.cache
+D:\bruno o foda\Algoritmo\Ex19\Ex19\obj\Debug\Ex19.exe
+D:\bruno o foda\Algoritmo\Ex19\Ex19\obj\Debug\Ex19.pdb

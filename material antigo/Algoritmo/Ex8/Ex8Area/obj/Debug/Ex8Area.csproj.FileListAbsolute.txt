@@ -1,0 +1,7 @@
+D:\bruno o foda\Algoritmo\Ex8Area\Ex8Area\bin\Debug\Ex8Area.exe.config
+D:\bruno o foda\Algoritmo\Ex8Area\Ex8Area\bin\Debug\Ex8Area.exe
+D:\bruno o foda\Algoritmo\Ex8Area\Ex8Area\bin\Debug\Ex8Area.pdb
+D:\bruno o foda\Algoritmo\Ex8Area\Ex8Area\obj\Debug\Ex8Area.csprojAssemblyReference.cache
+D:\bruno o foda\Algoritmo\Ex8Area\Ex8Area\obj\Debug\Ex8Area.csproj.CoreCompileInputs.cache
+D:\bruno o foda\Algoritmo\Ex8Area\Ex8Area\obj\Debug\Ex8Area.exe
+D:\bruno o foda\Algoritmo\Ex8Area\Ex8Area\obj\Debug\Ex8Area.pdb

@@ -1,0 +1,7 @@
+D:\tnc\algoritmo\Ex48\Ex48\bin\Debug\Ex48.exe.config
+D:\tnc\algoritmo\Ex48\Ex48\bin\Debug\Ex48.exe
+D:\tnc\algoritmo\Ex48\Ex48\bin\Debug\Ex48.pdb
+D:\tnc\algoritmo\Ex48\Ex48\obj\Debug\Ex48.csprojAssemblyReference.cache
+D:\tnc\algoritmo\Ex48\Ex48\obj\Debug\Ex48.csproj.CoreCompileInputs.cache
+D:\tnc\algoritmo\Ex48\Ex48\obj\Debug\Ex48.exe
+D:\tnc\algoritmo\Ex48\Ex48\obj\Debug\Ex48.pdb

@@ -1,0 +1,6 @@
+D:\bruno\Algoritmo\Ex70\Ex70\bin\Debug\Ex70.exe.config
+D:\bruno\Algoritmo\Ex70\Ex70\bin\Debug\Ex70.exe
+D:\bruno\Algoritmo\Ex70\Ex70\bin\Debug\Ex70.pdb
+D:\bruno\Algoritmo\Ex70\Ex70\obj\Debug\Ex70.csproj.CoreCompileInputs.cache
+D:\bruno\Algoritmo\Ex70\Ex70\obj\Debug\Ex70.exe
+D:\bruno\Algoritmo\Ex70\Ex70\obj\Debug\Ex70.pdb

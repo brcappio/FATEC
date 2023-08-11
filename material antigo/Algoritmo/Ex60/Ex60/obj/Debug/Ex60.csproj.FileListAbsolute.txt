@@ -1,0 +1,8 @@
+C:\workspace\fatec\Algoritmo\Ex60\Ex60\bin\Debug\Ex60.exe.config
+C:\workspace\fatec\Algoritmo\Ex60\Ex60\bin\Debug\Ex60.exe
+C:\workspace\fatec\Algoritmo\Ex60\Ex60\bin\Debug\Ex60.pdb
+C:\workspace\fatec\Algoritmo\Ex60\Ex60\obj\Debug\Ex60.csproj.AssemblyReference.cache
+C:\workspace\fatec\Algoritmo\Ex60\Ex60\obj\Debug\Ex60.csproj.SuggestedBindingRedirects.cache
+C:\workspace\fatec\Algoritmo\Ex60\Ex60\obj\Debug\Ex60.csproj.CoreCompileInputs.cache
+C:\workspace\fatec\Algoritmo\Ex60\Ex60\obj\Debug\Ex60.exe
+C:\workspace\fatec\Algoritmo\Ex60\Ex60\obj\Debug\Ex60.pdb

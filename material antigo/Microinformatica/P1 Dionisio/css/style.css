@@ -1,0 +1,63 @@
+.bg-vermelho {
+    background-color: rgb(170, 25, 5);
+}
+
+.bg-cinza {
+    background-color: rgb(95, 81, 81);
+}
+
+nav {
+    margin: 0;
+}
+
+header {
+    height: 80vh;
+    background-image: url(../images/pexels-adam-krypel-6499002.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-shadow: 1px 1px 1px white -1px -1px 1px;
+}
+
+.h1 {
+    font-size: 6em;
+    text-shadow: 1px 1px 3px #000;
+    line-height: 7px;
+}
+
+
+.titulo-htmlcss {
+    font-size: 22px;
+    padding-left: 265px;
+}
+
+.card-padding {
+    padding: 0 !important;
+}
+
+footer p {
+    margin: 0;
+}
+
+.footer-padding {
+    padding-right: 42px;
+}
+
+.footer-padding-espaco {
+    padding-left: 29px;
+}
+
+.footer-padding-espacohtml {
+    padding-left: 30px;
+}
+
+.fw-bold {
+    padding-left: 14px;
+}

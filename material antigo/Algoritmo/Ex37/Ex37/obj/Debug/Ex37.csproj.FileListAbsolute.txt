@@ -1,0 +1,6 @@
+D:\jolmes\Ex37\Ex37\bin\Debug\Ex37.exe.config
+D:\jolmes\Ex37\Ex37\bin\Debug\Ex37.exe
+D:\jolmes\Ex37\Ex37\bin\Debug\Ex37.pdb
+D:\jolmes\Ex37\Ex37\obj\Debug\Ex37.csproj.CoreCompileInputs.cache
+D:\jolmes\Ex37\Ex37\obj\Debug\Ex37.exe
+D:\jolmes\Ex37\Ex37\obj\Debug\Ex37.pdb

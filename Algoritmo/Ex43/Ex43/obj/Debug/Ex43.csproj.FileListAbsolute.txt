@@ -1,0 +1,6 @@
+D:\jolmes\Ex43\Ex43\bin\Debug\Ex43.exe.config
+D:\jolmes\Ex43\Ex43\bin\Debug\Ex43.exe
+D:\jolmes\Ex43\Ex43\bin\Debug\Ex43.pdb
+D:\jolmes\Ex43\Ex43\obj\Debug\Ex43.csproj.CoreCompileInputs.cache
+D:\jolmes\Ex43\Ex43\obj\Debug\Ex43.exe
+D:\jolmes\Ex43\Ex43\obj\Debug\Ex43.pdb

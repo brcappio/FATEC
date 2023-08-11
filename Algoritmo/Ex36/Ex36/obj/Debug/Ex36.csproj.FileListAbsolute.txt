@@ -1,0 +1,7 @@
+D:\jolmes\Ex36\Ex36\bin\Debug\Ex36.exe.config
+D:\jolmes\Ex36\Ex36\bin\Debug\Ex36.exe
+D:\jolmes\Ex36\Ex36\bin\Debug\Ex36.pdb
+D:\jolmes\Ex36\Ex36\obj\Debug\Ex36.csprojAssemblyReference.cache
+D:\jolmes\Ex36\Ex36\obj\Debug\Ex36.csproj.CoreCompileInputs.cache
+D:\jolmes\Ex36\Ex36\obj\Debug\Ex36.exe
+D:\jolmes\Ex36\Ex36\obj\Debug\Ex36.pdb

@@ -1,0 +1,6 @@
+D:\tnc\algoritmo\Ex49\Ex49\bin\Debug\Ex49.exe.config
+D:\tnc\algoritmo\Ex49\Ex49\bin\Debug\Ex49.exe
+D:\tnc\algoritmo\Ex49\Ex49\bin\Debug\Ex49.pdb
+D:\tnc\algoritmo\Ex49\Ex49\obj\Debug\Ex49.csproj.CoreCompileInputs.cache
+D:\tnc\algoritmo\Ex49\Ex49\obj\Debug\Ex49.exe
+D:\tnc\algoritmo\Ex49\Ex49\obj\Debug\Ex49.pdb

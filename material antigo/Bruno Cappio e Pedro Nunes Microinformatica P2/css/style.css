@@ -1,0 +1,56 @@
+header {
+    height: 80vh;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a {
+    color: #fff !important;
+}
+
+.navbar-toggler,
+.navbar-toggler-icon {
+    color: white;
+}
+
+.h1 {
+    font-size: 6em;
+    text-shadow: 1px 1px 3px #000;
+    line-height: 27px;
+}
+
+.border-danger {
+    color: red;
+}
+
+figure {
+    margin: 0;
+}
+
+.bg-cinza {
+    background-color: rgb(128, 120, 120);
+}
+
+.card-padding {
+    padding: 0 !important;
+}
+
+.bg-vermelho {
+    background-color: rgb(187, 32, 12);
+}
+
+.container-margin {
+    margin: 0;
+    line-height: 5px;
+}
+
+
+@media (max-width: 767.98px) {
+
+    .w-sm-100 {
+        width: 100% !important;
+    }
+}

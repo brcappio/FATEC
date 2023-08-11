@@ -1,0 +1,7 @@
+D:\tnc\algoritmo\Ex47\Ex47\bin\Debug\Ex47.exe.config
+D:\tnc\algoritmo\Ex47\Ex47\bin\Debug\Ex47.exe
+D:\tnc\algoritmo\Ex47\Ex47\bin\Debug\Ex47.pdb
+D:\tnc\algoritmo\Ex47\Ex47\obj\Debug\Ex47.csprojAssemblyReference.cache
+D:\tnc\algoritmo\Ex47\Ex47\obj\Debug\Ex47.csproj.CoreCompileInputs.cache
+D:\tnc\algoritmo\Ex47\Ex47\obj\Debug\Ex47.exe
+D:\tnc\algoritmo\Ex47\Ex47\obj\Debug\Ex47.pdb

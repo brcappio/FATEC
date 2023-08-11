@@ -1,0 +1,7 @@
+D:\jolmes\Ex31\Ex31\bin\Debug\Ex31.exe.config
+D:\jolmes\Ex31\Ex31\bin\Debug\Ex31.exe
+D:\jolmes\Ex31\Ex31\bin\Debug\Ex31.pdb
+D:\jolmes\Ex31\Ex31\obj\Debug\Ex31.csprojAssemblyReference.cache
+D:\jolmes\Ex31\Ex31\obj\Debug\Ex31.csproj.CoreCompileInputs.cache
+D:\jolmes\Ex31\Ex31\obj\Debug\Ex31.exe
+D:\jolmes\Ex31\Ex31\obj\Debug\Ex31.pdb

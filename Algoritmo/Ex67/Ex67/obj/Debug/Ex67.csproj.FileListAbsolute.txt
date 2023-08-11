@@ -1,0 +1,7 @@
+D:\bruno\Algoritmo\Ex67\Ex67\bin\Debug\Ex67.exe.config
+D:\bruno\Algoritmo\Ex67\Ex67\bin\Debug\Ex67.exe
+D:\bruno\Algoritmo\Ex67\Ex67\bin\Debug\Ex67.pdb
+D:\bruno\Algoritmo\Ex67\Ex67\obj\Debug\Ex67.csprojAssemblyReference.cache
+D:\bruno\Algoritmo\Ex67\Ex67\obj\Debug\Ex67.csproj.CoreCompileInputs.cache
+D:\bruno\Algoritmo\Ex67\Ex67\obj\Debug\Ex67.exe
+D:\bruno\Algoritmo\Ex67\Ex67\obj\Debug\Ex67.pdb

@@ -1,0 +1,7 @@
+D:\jolmes\Ex28\Ex28\bin\Debug\Ex28.exe.config
+D:\jolmes\Ex28\Ex28\bin\Debug\Ex28.exe
+D:\jolmes\Ex28\Ex28\bin\Debug\Ex28.pdb
+D:\jolmes\Ex28\Ex28\obj\Debug\Ex28.csprojAssemblyReference.cache
+D:\jolmes\Ex28\Ex28\obj\Debug\Ex28.csproj.CoreCompileInputs.cache
+D:\jolmes\Ex28\Ex28\obj\Debug\Ex28.exe
+D:\jolmes\Ex28\Ex28\obj\Debug\Ex28.pdb

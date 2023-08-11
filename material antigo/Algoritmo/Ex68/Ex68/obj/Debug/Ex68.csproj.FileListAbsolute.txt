@@ -1,0 +1,6 @@
+D:\bruno\Algoritmo\Ex68\Ex68\bin\Debug\Ex68.exe.config
+D:\bruno\Algoritmo\Ex68\Ex68\bin\Debug\Ex68.exe
+D:\bruno\Algoritmo\Ex68\Ex68\bin\Debug\Ex68.pdb
+D:\bruno\Algoritmo\Ex68\Ex68\obj\Debug\Ex68.csproj.CoreCompileInputs.cache
+D:\bruno\Algoritmo\Ex68\Ex68\obj\Debug\Ex68.exe
+D:\bruno\Algoritmo\Ex68\Ex68\obj\Debug\Ex68.pdb

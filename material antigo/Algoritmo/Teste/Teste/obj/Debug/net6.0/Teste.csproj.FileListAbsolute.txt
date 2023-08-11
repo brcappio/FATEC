@@ -1,0 +1,15 @@
+C:\workspace\fatec\Algoritmo\Teste\Teste\bin\Debug\net6.0\Teste.exe
+C:\workspace\fatec\Algoritmo\Teste\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\workspace\fatec\Algoritmo\Teste\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\workspace\fatec\Algoritmo\Teste\Teste\bin\Debug\net6.0\Teste.dll
+C:\workspace\fatec\Algoritmo\Teste\Teste\bin\Debug\net6.0\Teste.pdb
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\Teste.dll
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\refint\Teste.dll
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\Teste.pdb
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
+C:\workspace\fatec\Algoritmo\Teste\Teste\obj\Debug\net6.0\ref\Teste.dll

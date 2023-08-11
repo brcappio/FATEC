@@ -1,0 +1,441 @@
+* {
+    user-select: none;
+}
+
+.nav-lateral {
+    float: left;
+    width: 7%;
+    height: 100%;
+    background: var(--gradiente);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.nav-lateral-container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.logo {
+    position: absolute;
+    background-image: url(../img/Home/Logo_Annimar.svg);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    top: 40px;
+}
+
+.nav-lateral-lista {
+    width: 100%;
+    height: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 8rem 0 3rem;
+}
+
+.icone {
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+    display: block;
+    background-position-x: center;
+    cursor: pointer;
+}
+
+.icone1 {
+    background-image: url(../img/Home/Icon_Cadastro.svg);
+    
+}
+
+.icone2 {
+    background-image: url(../img/Home/Icon_Relatório.svg);
+    background-repeat: no-repeat;
+}
+
+.icone3 {
+    background-image: url(../img/Home/Ar_Icon.svg);
+    background-repeat: no-repeat;
+}
+
+.icone4 {
+    background-image: url(../img/Home/Ar_.svg);
+    background-repeat: no-repeat;
+}
+
+.logout-btn {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    background-image: url(../img/Home/Logout_.svg);
+    background-repeat: no-repeat;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    padding-right: 26px;
+}
+
+
+.navbar {
+    display: inline-block;
+    width: 93%;
+}
+
+.nav-content {
+    display: flex;
+    align-items: center;
+    padding: 15px 10px 10px 20px;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.gestao, .search {
+    margin-right: auto;
+    width: 33%;
+}
+
+.gestao-texto {
+    font-family: Raleway;
+    font-weight: lighter;
+    font-size: 20px;
+    color: var(--cinza);
+    user-select: none;
+}
+
+.search {
+    position: relative;
+}
+
+.search-input {
+    font-size: 8px;
+    letter-spacing: 2px;
+    height: 26px;
+    padding: 0px 0px 0px 55px;
+    width: 100%;
+    border-radius: 25px;
+    border: none;
+    background-color: var(--cinza-claro);
+    font-family: Raleway;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.search-icon {
+    position: absolute;
+    background-image: url(../img/Home/Lupa_.svg);
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    top: 6px;
+    right: 12px;
+}
+
+.help {
+    margin-right: 30px;
+}
+
+.help-btn {
+    border: none;
+    border-radius: 25px;
+    color: var(--branco);
+    font-weight: bolder;
+    background: var(--gradiente);
+    cursor: pointer;
+}
+
+.user {
+    user-select: none;
+    font-family: Raleway;
+    font-style: italic;
+    font-weight: lighter;
+    margin-right: 10px;
+}
+
+.user-texto {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.user-btn {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    background-image: url(../img/Home/User_.svg);
+    background-repeat: no-repeat;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.user-flex {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.user-btn-div {
+    position: relative;
+}
+
+.user-btn-icon {
+    position: absolute;
+    display: block;
+    background-image: url(../img/Home/Idioma_.svg);
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+    left: 24px;
+    top: 35px;
+    cursor: pointer;
+}
+
+.conteudo-container {
+    width: 93%;
+    background-color: var(--cinza-claro);
+    float: right;
+    height: calc(100% - 75px);
+}
+
+.conteudo-flex {
+    display: flex;
+    padding: 20px;
+    height: -webkit-fill-available;
+    text-align: center;
+    column-gap: 20px;
+}
+
+.conteudo-card {
+    border-radius: 25px;
+    -webkit-box-shadow: 0px 0px 18px -3px rgba(0,0,0,0.72);
+    -moz-box-shadow: 0px 0px 18px -3px rgba(0,0,0,0.72);
+    box-shadow: 0px 0px 18px -3px rgba(0,0,0,0.72);
+    background-color: var(--branco);
+    overflow: hidden;
+}
+
+.conteudo-card1 {
+    width: 20%;
+}
+
+.conteudo-card2 {
+    width: 20%;
+}
+
+.conteudo-card3 {
+    width: 20%;
+}
+
+.conteudo-card4 {
+    width: 35%;
+}
+
+.conteudo-card-padding {
+    padding: 10px;
+    height: 90%;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.conteudo-card-lista {
+    text-align: left;
+}
+
+.conteudo-card-lista-inside {
+    font-family: Montserrat;
+    display: flex;
+    flex-direction: column;
+    height: 95%;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 15px;
+}
+
+ul.conteudo-card-lista-inside > li::before {
+    content: "-";
+    text-indent: -5px;
+    margin-right: 2px;
+}
+
+.card-titulo {
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--gradiente);
+    color: var(--branco);
+    font-family: Montserrat;
+    font-weight: 600;
+    border-radius: 25px 25px 0 0;
+}
+
+.card-lista-item {
+    border-radius: 25px;
+    background-color: var(--branco);
+    color: var(--cinza-escuro);
+    text-indent: 10px;
+    height: 20px;
+    width: 100%;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.item-active {
+    background-color: var(--azul-mais-claro) !important;
+    color: var(--branco) !important;
+}
+
+.card-not-active {
+    display: none;
+}
+
+.card2-conteudo-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.card2-conteudo-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: var(--cinza-card);
+    width: 90px; 
+    height: 85px;
+    position: relative;
+    cursor: pointer;
+}
+
+
+.equipe-icon {
+    display: block;
+    background: url(../img/Home/Icon_equipe.svg) no-repeat;
+    width: 45px;
+    height: 75px;
+    position: absolute;
+    top: 15px;
+}
+
+.equipe-texto {
+    position: absolute;
+    font-family: Montserrat;
+    color: var(--branco);
+    top: 65px;
+    font-size: 10px;
+}
+
+.selecao-card-conteudo {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap: 20px;
+}
+
+.selecao-card-conteudo-inside {
+    display: flex;
+    align-items: center;
+    border: 1px solid #333333;
+    border-radius: 15px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.selecao-icon-container {
+    position: relative;
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.selecao-card-icon {
+    position: absolute;
+    display: block;
+    background: url(../img/Home/Categoria_.svg) no-repeat;
+    width: 45px;
+    height: 40px;
+    top: 7px;
+}
+
+.selecao-card-conteudo-texto {
+    font-family: Montserrat;
+}
+
+.selecao-card-conteudo-texto-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 100%;
+}
+
+.selecao-card-conteudo-barra {
+    width: 1px;
+    height: 100%;
+    border-right: 1px solid #333333;
+}
+
+.card4-conteudo-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.card4-conteudo-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: var(--cinza-card);
+    width: 110px; 
+    height: 100px;
+    position: relative;
+    cursor: pointer;
+}
+
+.video-texto {
+    font-family: Montserrat;
+    color: var(--branco);
+    top: 65px;
+    font-size: 11px;
+}
+
+.video-icon {
+    display: block;
+    background: url(../img/Home/Icon_Vídeo.svg) no-repeat;
+    width: 55px;
+    height: 75px;
+    position: absolute;
+    top: 15px;
+}
+
+.video-texto-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 75px;
+    height: 30px;
+    position: absolute;
+    top: 59px;
+}
+
+.video-texto-linha {
+    display: block;
+    background: var(--branco);
+    width: 100%;
+    height: 1px;
+}

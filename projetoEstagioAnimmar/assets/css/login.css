@@ -1,0 +1,169 @@
+@import "style.css";
+
+.logo {
+    display: flex;
+    justify-content: center;
+    background-image: url(../img/Login/Fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 60%;
+    height: 100%;
+    float: left;
+}
+
+.logo-svg {
+    max-width: 400px;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    height: 100%;
+    float: right;
+    text-align: center;
+}
+
+.login-bemvindo {
+    color: var(--azul-escuro);
+    font-family: Raleway,sans-serif;
+    margin-bottom: 1rem;
+    text-align: left;
+    border-bottom: solid 1px var(--azul-escuro);
+    height: 20px;
+    width: 89px;
+}
+
+.login-gestao {
+    font-family: Montserrat,sans-serif;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+.login-container {
+    width: 20rem;
+    margin: auto 0;
+    text-align: left;
+}
+
+.bemvindo-texto {
+    font-size: .85rem;
+}
+
+.gestao-texto {
+    display: block;
+    width: 100%;
+    color: var(--azul-escuro);
+    font-size: 1.834rem;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.username {
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.password {
+    margin-bottom: .3rem;
+    position: relative;
+}
+
+.input-redondo {
+    overflow: hidden;
+    padding: 15px 0 15px 55px;
+    width: 100%;
+    border: none;
+    border-radius: 25px;
+    background-color: var(--cinza-claro);
+    max-width: -webkit-fill-available;
+}
+
+.input-redondo:focus {
+    outline-color: var(--azul-escuro);
+}
+
+.user-icon {
+    position: absolute;
+    top: 13px;
+    left: 23px;
+    padding: 10px 10px;
+    background-repeat: no-repeat;
+    filter: invert(82%) sepia(9%) saturate(4058%) hue-rotate(202deg) brightness(91%) contrast(105%);
+    background-image: url(../img/Login/Icon_User.svg);
+}
+
+.password-icon {
+    position: absolute;
+    top: 13px;
+    left: 23px;
+    padding: 10px 10px;
+    background-repeat: no-repeat;
+    filter: invert(82%) sepia(9%) saturate(4058%) hue-rotate(202deg) brightness(91%) contrast(105%);
+    background-image: url(../img/Login/Icon_Senha.svg);
+}
+
+.checkbox {
+    width: 1.5em;
+    height: 1.5em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.checkbox:checked {
+    background-image: url(../img/Login/Remember_.svg);
+}
+
+
+.flex-remember {
+    display: flex;
+    align-items: center;
+}
+
+.flex-remember a {
+    margin-left: auto;
+}
+
+.forgot-text, .remember-text {
+    user-select: none;
+    font-size: .8em;
+    font-family: Montserrat;
+    text-decoration: none;
+    color: var(--cinza);
+}
+
+.remember-text {
+    padding-left: .2rem;
+    cursor: pointer;
+}
+
+.submit {
+    display: block;
+    text-align: center;
+    font-family: Montserrat;
+    cursor: pointer;
+    margin-top: 1rem;
+    padding: 15px 0 15px 0;
+    border: none;
+    border-radius: 25px;
+    text-decoration: none;
+    background-image: url(../img/Login/Botão_.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 100%;
+    max-width: -webkit-fill-available;
+}
+
+.login-texto {
+    color: var(--branco);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1rem;
+}

@@ -1,0 +1,7 @@
+D:\tnc\algoritmo\Ex45\Ex45\bin\Debug\Ex45.exe.config
+D:\tnc\algoritmo\Ex45\Ex45\bin\Debug\Ex45.exe
+D:\tnc\algoritmo\Ex45\Ex45\bin\Debug\Ex45.pdb
+D:\tnc\algoritmo\Ex45\Ex45\obj\Debug\Ex45.csprojAssemblyReference.cache
+D:\tnc\algoritmo\Ex45\Ex45\obj\Debug\Ex45.csproj.CoreCompileInputs.cache
+D:\tnc\algoritmo\Ex45\Ex45\obj\Debug\Ex45.exe
+D:\tnc\algoritmo\Ex45\Ex45\obj\Debug\Ex45.pdb

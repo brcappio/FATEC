@@ -1,0 +1,6 @@
+D:\BRUNO E PEDRO\Prova-Ex2\Prova-Ex2\bin\Debug\Prova-Ex2.exe.config
+D:\BRUNO E PEDRO\Prova-Ex2\Prova-Ex2\bin\Debug\Prova-Ex2.exe
+D:\BRUNO E PEDRO\Prova-Ex2\Prova-Ex2\bin\Debug\Prova-Ex2.pdb
+D:\BRUNO E PEDRO\Prova-Ex2\Prova-Ex2\obj\Debug\Prova-Ex2.csproj.CoreCompileInputs.cache
+D:\BRUNO E PEDRO\Prova-Ex2\Prova-Ex2\obj\Debug\Prova-Ex2.exe
+D:\BRUNO E PEDRO\Prova-Ex2\Prova-Ex2\obj\Debug\Prova-Ex2.pdb
